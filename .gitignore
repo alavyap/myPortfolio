@@ -36,19 +36,3 @@ yarn-error.log*
 next-env.d.ts
 
 
-# Ignore vendor directory
-/vendor/
-
-# Ignore any log files
-*.log
-
-# Ignore environment files
-.env
-
-# Ignore user-specific files
-.idea/
-.vscode/
-
-# Ignore system files
-Thumbs.db
-   
