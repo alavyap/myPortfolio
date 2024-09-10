@@ -9,7 +9,7 @@ import { HiDownload } from "react-icons/hi";
 import useSectionInView from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
 
-import myImage from "@/public/portfolioimage.jpg";
+import myImage from "@/public/portfolioimage.png";
 
 const Intro = () => {
   const { ref } = useSectionInView("Home", 0.5);
