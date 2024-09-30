@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Bengaluru, India",
     description:
-      "I am working as a contact center developer for 2 years. I am also upskilling myself as a  front end developer.",
+      "I am working as a contact center developer for 3 years. I am also upskilling myself as a  front end developer.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - present ",
   },
