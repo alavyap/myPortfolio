@@ -91,7 +91,7 @@ export const skillsData = [
   "MaterialUI"
   "MongoDB",
   "JSON Web Token",  
-  "Multer ",
+  "Multer",
   "SocketIO",
   "Express",
   "Axios",
