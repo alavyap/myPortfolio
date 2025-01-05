@@ -21,24 +21,22 @@ const About = () => {
       <p className="mb-3">
         After graduating with a degree in{" "}
         <span className="font-medium">Computer Science</span>, I joined Tech
-        Mahindra to gain an understanding of how the corporate world works,
-        where I worked on AWS and similar contact center providers. My core
-        stack is{" "}
-        <span className="font-medium">
-          MERN (MongoDB, Express, React, Node.js)
-        </span>
-        . I am currently learning{" "}
-        <span className="font-medium">TypeScript and Next.js</span>. I am always
-        eager to expand my knowledge and learn new technologies. I am currently
-        looking for a <span className="font-medium">full-time position</span> as
-        a frontend developer.
+        Mahindra to deepen my understanding of cloud technologies, where I
+        gained hands-on experience with AWS services while contributing as a
+        Contact Center Developer. I am currently learning{" "}
+        <span className="font-medium"> JavaScript and React</span>. I actively
+        seek opportunities to enhance my expertise by exploring and mastering
+        new tools and technologies, ensuring I stay ahead in the ever-evolving
+        tech landscape.
       </p>
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
         video games, watching web series. I also enjoy{" "}
-        <span className="font-medium">reading</span>. I am currently reading
-        <span className="font-medium"> Level Up </span> by Rob Dial.
+        <span className="font-medium">
+          reading books on personal and professional growth.
+        </span>
+        .
       </p>
     </motion.section>
   );

@@ -3,7 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import gitchatImg from "@/public/gitchat.png";
-import pixelpaintImg from "@/public/pixelpaint.png";
+import usermanagementImg from "@/public/UserManagement.png";
 import expensetrackerImg from "@/public/expensetracker.png";
 
 export const links = [
@@ -38,7 +38,7 @@ export const experiencesData = [
     title: "B.Tech CSE",
     location: "Bhopal, India",
     description:
-      "After completing my 4-year B.Tech in 2021, I immediately secured a job at Tech Mahindra as a associate developer.",
+      "I graduated with a Bachelor’s degree in Computer Science and Engineering in 2021, achieving a CGPA of 8.1. During my four years of study, I built a strong foundation in computer science concepts, with a particular focus on frontend development, including user interface design, web technologies, and frameworks like React. This academic journey fueled my passion for creating seamless and engaging user experiences.",
     icon: React.createElement(LuGraduationCap),
     date: "2017 - 2021",
   },
@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Bengaluru, India",
     description:
-      "I am working as a contact center developer for 3 years. I am also upskilling myself as a  front end developer.",
+      "I have been working as a Contact Center Developer for the past 2 years, where I optimized AWS services such as Connect, Lex, Lambda, DynamoDB, and CloudWatch to achieve a 30% improvement in system performance. I enhanced a Lex bot by optimizing conversational flows, resulting in a 20% increase in efficiency. Additionally, I played a pivotal role in securing two new clients by showcasing improved product capabilities and delivering exceptional customer solutions. Alongside this, I have been actively upskilling myself as a Frontend Developer to broaden my expertise and contribute to user-centric development.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - present ",
   },
@@ -62,18 +62,18 @@ export const projectsData = [
     imageUrl: gitchatImg,
   },
   {
+    title: "User Management System",
+    description:
+      "A user management system built with Node.js, Express, and MongoDB, featuring CRUD operations, and optimized UI rendering with EJS templates. ",
+    tags: ["JavaScript", "EJS", "Node"],
+    imageUrl: usermanagementImg,
+  },
+  {
     title: "Expense Tracker",
     description:
       "A full-stack Expense Tracker app using React, Chakra UI, Node.js, and MongoDB for efficient expense management and user-friendly design.",
     tags: ["React","Chakra UI", "MongoDB", "Node.js"],
     imageUrl: expensetrackerImg,
-  },
-  {
-    title: "Pixel Paint",
-    description:
-      "A drawing app built with HTML, CSS, and JavaScript, featuring a user-friendly interface and the ability to download your creations.",
-    tags: ["HTML", "CSS", "Javascript"],
-    imageUrl: pixelpaintImg,
   },
 ] as const;
 
@@ -84,10 +84,10 @@ export const skillsData = [
   "JavaScript",
   "TypeScript",
   "React",
-  "Next",
+  "Next.js",
   "Node",
-  "Git",
-  "TailwindCSS",
+  "Git/Github",
+  "Tailwind CSS",
   "MaterialUI",
   "MongoDB",
   "JSON Web Token",  
@@ -95,11 +95,12 @@ export const skillsData = [
   "SocketIO",
   "Express",
   "Axios",
-  "Python",
-  "C/C++",
+ 
   "Framer Motion",
-  "VS Code",
   "Vite",
   "PostMan",
-  "AWS",
+  "Amazon Web Services",
+  "Python",
+  "C/C++",
+
 ] as const;
