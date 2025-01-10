@@ -3,7 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import gitchatImg from "@/public/gitchat.png";
-import usermanagementImg from "@/public/UserManagement.png";
+import usermanagementImg from "@/public/usermanagement.png";
 import expensetrackerImg from "@/public/expensetracker.png";
 
 export const links = [
