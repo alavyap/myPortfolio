@@ -2,8 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import gitchatImg from "@/public/gitchat.png";
+import statcodeImg from "@/public/statcode.png";
 import usermanagementImg from "@/public/usermanagement.png";
+import gitchatImg from "@/public/gitchat.png";
 import expensetrackerImg from "@/public/expensetracker.png";
 
 export const links = [
@@ -59,22 +60,23 @@ export const projectsData = [
     description:
       "A robust app for developers  for writing, sharing, and showcasing multi-language code while tracking most-used tech, total submissions, and coding stats.",
     tags: ["Next.js", "Tailwind","TypeScript","JavaScript", "Convex","Clerk","Vercel","Lemon Squeezy", ],
+    imageUrl: statcodeImg,
+  },
+  {
+    title: "Git Chat",
+    description:
+      "A robust app using React,and Sockets for real-time messaging. Backend with Node.js, Express and Zustand for seamless functionality.",
+    tags: ["React", "Tailwind", "MongoDB", "Node.js", "JWT Token", "ShadCN","Socket.IO"],
     imageUrl: gitchatImg,
   },
   {
     title: "User Management System",
     description:
-      "A user management system built with Node.js, Express, and MongoDB, featuring CRUD operations, and optimized UI rendering with EJS templates.Focused mainly of Backend. ",
+      "A user management system built with Node.js, Express, and MongoDB, featuring CRUD operations, and optimized UI rendering with EJS templates.",
     tags: ["JavaScript", "EJS", "Node"],
     imageUrl: usermanagementImg,
   },
-  {
-    title: "Expense Tracker",
-    description:
-      "A full-stack Expense Tracker app using React, Chakra UI, Node.js, and MongoDB for efficient expense management and user-friendly design.",
-    tags: ["React","Chakra UI", "MongoDB", "Node.js"],
-    imageUrl: expensetrackerImg,
-  },
+ 
 ] as const;
 
 export const skillsData = [
