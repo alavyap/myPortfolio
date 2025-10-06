@@ -55,16 +55,16 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Git Chat",
+    title: "Stat Code",
     description:
-      "A robust app using React,and Sockets for real-time messaging. Backend with Node.js, Express and Zustand for seamless functionality.",
-    tags: ["React", "Tailwind", "MongoDB", "Node.js", "JWT Token", "ShadCN","Socket.IO"],
+      "A robust app for developers  for writing, sharing, and showcasing multi-language code while tracking most-used tech, total submissions, and coding stats.",
+    tags: ["Next.js", "Tailwind","TypeScript","JavaScript", "Convex","Clerk","Vercel","Lemon Squeezy", ],
     imageUrl: gitchatImg,
   },
   {
     title: "User Management System",
     description:
-      "A user management system built with Node.js, Express, and MongoDB, featuring CRUD operations, and optimized UI rendering with EJS templates. ",
+      "A user management system built with Node.js, Express, and MongoDB, featuring CRUD operations, and optimized UI rendering with EJS templates.Focused mainly of Backend. ",
     tags: ["JavaScript", "EJS", "Node"],
     imageUrl: usermanagementImg,
   },
@@ -95,7 +95,6 @@ export const skillsData = [
   "SocketIO",
   "Express",
   "Axios",
- 
   "Framer Motion",
   "Vite",
   "PostMan",
