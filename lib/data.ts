@@ -51,32 +51,32 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "2021 - present ",
   },
-  
+
 ] as const;
 
 export const projectsData = [
   {
     title: "Stat Code",
     description:
-      "A FullStack app for developers  for writing, sharing, and showcasing multi-language code while tracking most-used tech, total submissions, and coding stats.",
-    tags: ["Next.js", "Tailwind","TypeScript","JavaScript", "Convex","Clerk","Vercel","Lemon Squeezy", ],
+      "A Full-Stack app for developers  for writing, sharing, and showcasing multi-language code while tracking most-used tech, total submissions, and coding stats.",
+    tags: ["Next.js", "Tailwind", "TypeScript", "JavaScript", "Convex", "Clerk", "Vercel", "Lemon Squeezy",],
     imageUrl: statcodeImg,
   },
   {
     title: "Git Chat",
     description:
       "A robust app using React,and Sockets for real-time messaging. Backend with Node.js, Express and Zustand for seamless functionality.",
-    tags: ["React", "Tailwind", "MongoDB", "Node.js", "JWT Token", "ShadCN","Socket.IO"],
+    tags: ["React", "Tailwind", "MongoDB", "Node.js", "JWT Token", "ShadCN", "Socket.IO"],
     imageUrl: gitchatImg,
   },
   {
     title: "User Management System",
     description:
-      "A user management system built with Node.js, Express, and MongoDB, featuring CRUD operations, and optimized UI rendering with EJS templates.",
+      "A backend project built with Node.js, Express, and MongoDB, featuring CRUD operations, and optimized UI rendering with EJS templates.",
     tags: ["JavaScript", "EJS", "Node"],
     imageUrl: usermanagementImg,
   },
- 
+
 ] as const;
 
 export const skillsData = [
@@ -92,7 +92,7 @@ export const skillsData = [
   "Tailwind CSS",
   "MaterialUI",
   "MongoDB",
-  "JSON Web Token",  
+  "JSON Web Token",
   "Multer",
   "SocketIO",
   "Express",
