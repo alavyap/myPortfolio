@@ -88,6 +88,8 @@ export const skillsData = [
   "React",
   "Next.js",
   "Node",
+  "Python",
+  "C/C++",
   "Git/Github",
   "Tailwind CSS",
   "MaterialUI",
@@ -100,8 +102,6 @@ export const skillsData = [
   "Framer Motion",
   "Vite",
   "PostMan",
-  "Amazon Web Services",
-  "Python",
-  "C/C++",
+  "AWS",
 
 ] as const;
