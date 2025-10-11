@@ -102,6 +102,6 @@ export const skillsData = [
   "Framer Motion",
   "Vite",
   "PostMan",
-  "AWS",
+  "Amazon Web Services",
 
 ] as const;
