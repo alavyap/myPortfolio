@@ -101,6 +101,7 @@ export const skillsData = [
   "Axios",
   "Framer Motion",
   "Vite",
+  "Vercel",
   "PostMan",
   "Amazon Web Services",
 
