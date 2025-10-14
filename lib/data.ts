@@ -59,7 +59,7 @@ export const projectsData = [
     title: "Stat Code",
     description:
       "A Full-Stack app for developers  for writing, sharing, and showcasing multi-language code while tracking most-used tech, total submissions, and coding stats.",
-    tags: ["Next.js", "Tailwind", "TypeScript", "JavaScript", "Convex", "Clerk", "Vercel", "Lemon Squeezy",],
+    tags: ["Next.js", "Tailwind", "TypeScript", "Convex", "Clerk", "Vercel", "Lemon Squeezy",],
     imageUrl: statcodeImg,
   },
   {
