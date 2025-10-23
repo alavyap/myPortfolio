@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "B.Tech CSE",
     location: "Bhopal, India",
     description:
-      "I graduated with a Bachelor’s degree in Computer Science and Engineering in 2021, achieving a CGPA of 8.1. During my four years of study, I built a strong foundation in computer science concepts, with a particular focus on frontend development, including user interface design, web technologies, and frameworks like React. This academic journey fueled my passion for creating seamless and engaging user experiences.",
+      "I graduated with a Bachelor’s degree in Computer Science and Engineering in 2021, achieving a CGPA of 8.10. During my four years of study, I built a strong foundation in computer science concepts, with a particular focus on frontend development, including user interface design, web technologies, and frameworks like React. This academic journey fueled my passion for creating seamless and engaging user experiences.",
     icon: React.createElement(LuGraduationCap),
     date: "2017 - 2021",
   },
