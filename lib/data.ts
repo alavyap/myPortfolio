@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Bengaluru, India",
     description:
-      "I have been working as a AWS Developer for the past 2 years, where I optimized AWS services such as  Lambda, DynamoDB, Connect, Lex and CloudWatch to achieve a 30% improvement in system performance. I enhanced a Lex bot by optimizing conversational flows, resulting in a 20% increase in efficiency. Additionally, I played a pivotal role in securing two new clients by showcasing improved product capabilities and delivering exceptional customer solutions. Alongside this, I have been actively upskilling myself as a Frontend Developer to broaden my expertise and contribute to user-centric development.",
+      "I have been working as a AWS Developer for the past 2.5 years, where I optimized AWS services such as  Lambda, DynamoDB, Connect, Lex and CloudWatch to achieve a 30% improvement in system performance. I enhanced a Lex bot by optimizing conversational flows, resulting in a 20% increase in efficiency. Additionally, I played a pivotal role in securing two new clients by showcasing improved product capabilities and delivering exceptional customer solutions. Alongside this, I have been actively upskilling myself as a Frontend Developer to broaden my expertise and contribute to user-centric development.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - present ",
   },
@@ -105,5 +105,4 @@ export const skillsData = [
   "Vercel",
   "PostMan",
   "Amazon Web Services",
-
 ] as const;
