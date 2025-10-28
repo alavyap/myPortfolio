@@ -66,7 +66,7 @@ export const projectsData = [
     title: "Git Chat",
     description:
       "A frontend focused app using React,and Sockets for real-time messaging. Backend with Node.js, Express and Zustand for seamless functionality.",
-    tags: ["React", "Tailwind", "MongoDB", "Node.js", "JWT Token", "ShadCN", "Socket.IO"],
+    tags: ["React" ,"Tailwind" ,"MongoDB" ,"Node.js" ,"JWT Token" ,"ShadCN" ,"Socket.IO"],
     imageUrl: gitchatImg,
   },
   {
