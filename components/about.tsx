@@ -23,7 +23,7 @@ const About = () => {
         <span className="font-medium">Computer Science</span>, I joined Tech
         Mahindra to deepen my understanding of cloud technologies, where I
         gained hands-on experience with AWS services while contributing as a
-        CCaS Developer. I am currently learning{" "}
+        Contact Center Developer. I am currently learning{" "}
         <span className="font-medium"> JavaScript and React</span>. I actively
         seek opportunities to enhance my expertise by exploring and mastering
         new tools and technologies, ensuring I stay ahead in the ever-evolving
