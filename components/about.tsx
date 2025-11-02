@@ -24,15 +24,15 @@ const About = () => {
         Mahindra to deepen my understanding of cloud technologies, where I
         gained hands-on experience with AWS services while contributing as a
         Contact Center Developer. I am currently learning{" "}
-        <span className="font-medium"> JavaScript and MERN stack</span>. I actively
-        seek opportunities to enhance my expertise by exploring and mastering
-        new tools and technologies, ensuring I stay ahead in the ever-evolving
-        tech landscape.
+        <span className="font-medium"> JavaScript and MERN stack</span>. I
+        actively seek opportunities to enhance my expertise by exploring and
+        mastering new tools and technologies, ensuring I stay ahead in the
+        ever-evolving tech landscape.
       </p>
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching web series. I also enjoy{" "}
+        video games mostly FPS games. I also enjoy{" "}
         <span className="font-medium">
           reading books on personal and professional growth.
         </span>
