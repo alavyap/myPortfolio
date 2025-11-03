@@ -66,8 +66,8 @@ const Intro = () => {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Alavya Pandey.</span> I'm a{" "}
-        <span className="font-bold">front-end developer</span> with{" "}
-        <span className="font-bold">2 years</span> of experience. I enjoy
+        <span className="font-bold">full-stack developer</span> with{" "}
+        <span className="font-bold">2.5 years</span> of experience. I enjoy
         building <span className="italic">sites & apps</span>.My expertise lies
         in Frontend Development, with a specialization in{" "}
         <span className="underline text-blue-800 dark:text-blue-500">
