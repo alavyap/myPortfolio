@@ -93,6 +93,7 @@ export const skillsData = [
   "Git/Github",
   "Tailwind CSS",
   "MaterialUI",
+  "MySQL",
   "MongoDB",
   "JSON Web Token",
   "Multer",
@@ -105,5 +106,6 @@ export const skillsData = [
   "Vercel",
   "PostMan",
   "Amazon Web Services",
-  "Computer Networks",
+
+
 ] as const;
