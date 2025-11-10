@@ -106,7 +106,6 @@ export const skillsData = [
   "Vercel",
   "PostMan",
   "Amazon Web Services",
-  "DBMS",
 
 
 ] as const;
