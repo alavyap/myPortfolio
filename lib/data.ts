@@ -93,7 +93,6 @@ export const skillsData = [
   "Git/Github",
   "Tailwind CSS",
   "MaterialUI",
-  "MySQL",
   "MongoDB",
   "JSON Web Token",
   "Multer",
