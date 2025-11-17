@@ -107,5 +107,4 @@ export const skillsData = [
   "Amazon Web Services",
   "Computer Networks",
 
-  
 ] as const;
