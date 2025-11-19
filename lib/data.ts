@@ -98,7 +98,7 @@ export const skillsData = [
   "Multer",
   "SocketIO",
   "ShadCN UI",
-  "Express",
+  "Express.js",
   "Axios",
   "Framer Motion",
   "Vite",
@@ -106,4 +106,6 @@ export const skillsData = [
   "PostMan",
   "Amazon Web Services",
   "Computer Networks",
+
+
 ] as const;
