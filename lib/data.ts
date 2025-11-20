@@ -98,7 +98,7 @@ export const skillsData = [
   "Multer",
   "SocketIO",
   "ShadCN UI",
-  "Express.js",
+  "Express",
   "Axios",
   "Framer Motion",
   "Vite",
