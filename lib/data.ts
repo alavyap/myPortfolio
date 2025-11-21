@@ -106,6 +106,4 @@ export const skillsData = [
   "PostMan",
   "Amazon Web Services",
   "Computer Networks",
-
-
 ] as const;
