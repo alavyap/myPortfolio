@@ -94,6 +94,7 @@ export const skillsData = [
   "Tailwind CSS",
   "MaterialUI",
   "MongoDB",
+  "MySQL",
   "JSON Web Token",
   "Multer",
   "SocketIO",
