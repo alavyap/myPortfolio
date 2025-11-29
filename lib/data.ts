@@ -73,7 +73,7 @@ export const projectsData = [
     title: "User Management System",
     description:
       "A backend focused project built using Node.js, Express, and MongoDB, using the important CRUD operations and optimized UI rendering with EJS templates.",
-    tags: ["JavaScript", "Node", "Express"],
+    tags: ["JavaScript", "Express","Node", ],
     imageUrl: usermanagementImg,
   },
 
