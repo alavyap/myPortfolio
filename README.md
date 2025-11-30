@@ -88,7 +88,6 @@ npm start
 - **Netlify**: Drag & drop `dist` folder or use CLI
 - **Other**: Any Node.js hosting with `npm run build && npm start`
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/alavyap/myPortfolio/issues).
@@ -109,4 +108,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ### 🍽️ Feel free to fork this repository and make it your own!
 
 **Made with ❤️ by Alavya Pandey**
+
 </div>
